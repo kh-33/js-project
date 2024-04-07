@@ -22,37 +22,43 @@ let products = [
     id: 1,
     title: "Single Breasted Blazer",
     color: "navy",
-    imageUrl: "Images/prod1.webp",
+    imageUrl:
+      "https://raw.githubusercontent.com/kh-33/js-project/main/Images/prod1.webp",
   },
   {
     id: 2,
     title: "Wool Blended Bomber Jacket",
     color: "camel",
-    imageUrl: "./images/prod2.webp",
+    imageUrl:
+      "https://raw.githubusercontent.com/kh-33/js-project/main/Images/prod2.webp",
   },
   {
     id: 3,
     title: "Drawstring Hoodie",
     color: "taupe",
-    imageUrl: "./images/prod3.webp",
+    imageUrl:
+      "https://raw.githubusercontent.com/kh-33/js-project/main/Images/prod3.webp",
   },
   {
     id: 4,
     title: "Beleted Blazer",
     color: "papaya",
-    imageUrl: "./images/prod5.webp",
+    imageUrl:
+      "https://raw.githubusercontent.com/kh-33/js-project/main/Images/prod5.webp",
   },
   {
     id: 5,
     title: "Junior Oversized T-Shirt",
     color: "white",
-    imageUrl: "./images/prod4.webp",
+    imageUrl:
+      "https://raw.githubusercontent.com/kh-33/js-project/main/Images/prod4.webp",
   },
   {
     id: 6,
     title: "Junior Elasticated Hoodie",
     color: "balck",
-    imageUrl: "./images/prod6.webp",
+    imageUrl:
+      "https://raw.githubusercontent.com/kh-33/js-project/main/Images/prod6.webp",
   },
 ];
 function drawItems() {

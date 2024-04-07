@@ -19,7 +19,7 @@ function drawCartProducts(products) {
             <div class="product_item">
                 <img class="product_item_img" src="${item.imageUrl}" alt="">
                 <div class="product_item_desc">
-                    <h2>${item.title}</h2>
+                    <h3>${item.title}</h3>
                     <p>price: $100</p>
                     <span>${item.color}</span>
                 </div>

@@ -22,7 +22,7 @@ let products = [
     id: 1,
     title: "Single Breasted Blazer",
     color: "navy",
-    imageUrl: "./images/prod1.webp",
+    imageUrl: "Images/prod1.webp",
   },
   {
     id: 2,
